@@ -17,7 +17,6 @@
     "name": "nyc parks and amenities",
     "version": "1.0.0",
     "description": "Data of NYC parks by bourough. Including trails and events",
-    "title": "nyc parks and amenities",
-    "url": "http://localhost:4000/"
+    "title": "nyc parks and amenities"
   }
 }
