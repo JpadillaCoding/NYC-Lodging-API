@@ -14,9 +14,9 @@
     "nodemon": "^2.0.21"
   },
   "apidoc": {
-    "name": "nyc parks and amenities",
+    "name": "NYC Parks & Amenities",
     "version": "1.0.0",
-    "description": "Data of NYC parks by bourough. Including trails and events",
+    "description": "Data of NYC parks by bourough that shows trails and events in that park",
     "title": "nyc parks and amenities"
   }
 }

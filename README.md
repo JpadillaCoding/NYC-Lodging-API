@@ -1,1 +1,4 @@
-# NYC-Lodging-API
+# NYC Parks & Amenities
+
+## Intro
+
