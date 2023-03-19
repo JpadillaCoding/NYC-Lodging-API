@@ -19,7 +19,9 @@ This installation requires a MongoDB database
 3. Seed the data
    - Navigate into the repo file
      > `node ./lib/db/seed.js ` 
+
      > `node ./lib/db/seedParks.js` 
+     
      > `node ./lib/db/seedAmenities.js`
 4. Launch the server
    > `node ./lib/index.js`
@@ -41,6 +43,9 @@ This [Sheets](https://docs.google.com/spreadsheets/d/1yoJJ-LUfNMUR-cwOMaIuyi-udg
 
 ## Technologies Used
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 [Mongoose](https://mongoosejs.com/docs/)
